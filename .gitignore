@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+.cache/
+*.pyc
+.DS_Store
+run*.sh
+*.wav
+*.npy
+*.json
+.ipynb_checkpoints/
+training/
+logs-*/
+
